@@ -1,0 +1,14 @@
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\C#\Proyecto_1\ListaTareas\obj\Debug\net9.0\ListaTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\C#\Proyecto_1\ListaTareas\obj\Debug\net9.0\ListaTareas.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\C#\Proyecto_1\ListaTareas\obj\Debug\net9.0\ListaTareas.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\C#\Proyecto_1\ListaTareas\obj\Debug\net9.0\ListaTareas.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\C#\Proyecto_1\ListaTareas\bin\Debug\net9.0\ListaTareas.exe
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\C#\Proyecto_1\ListaTareas\bin\Debug\net9.0\ListaTareas.deps.json
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\C#\Proyecto_1\ListaTareas\bin\Debug\net9.0\ListaTareas.runtimeconfig.json
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\C#\Proyecto_1\ListaTareas\bin\Debug\net9.0\ListaTareas.dll
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\C#\Proyecto_1\ListaTareas\bin\Debug\net9.0\ListaTareas.pdb
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\C#\Proyecto_1\ListaTareas\obj\Debug\net9.0\ListaTareas.dll
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\C#\Proyecto_1\ListaTareas\obj\Debug\net9.0\refint\ListaTareas.dll
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\C#\Proyecto_1\ListaTareas\obj\Debug\net9.0\ListaTareas.pdb
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\C#\Proyecto_1\ListaTareas\obj\Debug\net9.0\ListaTareas.genruntimeconfig.cache
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\C#\Proyecto_1\ListaTareas\obj\Debug\net9.0\ref\ListaTareas.dll
