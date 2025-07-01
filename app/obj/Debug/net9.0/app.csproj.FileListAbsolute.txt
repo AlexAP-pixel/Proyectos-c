@@ -1,0 +1,29 @@
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\c#\app\bin\Debug\net9.0\app.exe
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\c#\app\bin\Debug\net9.0\app.deps.json
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\c#\app\bin\Debug\net9.0\app.runtimeconfig.json
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\c#\app\bin\Debug\net9.0\app.dll
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\c#\app\bin\Debug\net9.0\app.pdb
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\c#\app\obj\Debug\net9.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\c#\app\obj\Debug\net9.0\app.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\c#\app\obj\Debug\net9.0\app.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\c#\app\obj\Debug\net9.0\app.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\c#\app\obj\Debug\net9.0\app.dll
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\c#\app\obj\Debug\net9.0\refint\app.dll
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\c#\app\obj\Debug\net9.0\app.pdb
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\c#\app\obj\Debug\net9.0\app.genruntimeconfig.cache
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\c#\app\obj\Debug\net9.0\ref\app.dll
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Primeros pasos\bin\Debug\net9.0\app.exe
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Primeros pasos\bin\Debug\net9.0\app.deps.json
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Primeros pasos\bin\Debug\net9.0\app.runtimeconfig.json
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Primeros pasos\bin\Debug\net9.0\app.dll
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Primeros pasos\bin\Debug\net9.0\app.pdb
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Primeros pasos\obj\Debug\net9.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Primeros pasos\obj\Debug\net9.0\app.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Primeros pasos\obj\Debug\net9.0\app.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Primeros pasos\obj\Debug\net9.0\app.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Primeros pasos\obj\Debug\net9.0\app.sourcelink.json
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Primeros pasos\obj\Debug\net9.0\app.dll
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Primeros pasos\obj\Debug\net9.0\refint\app.dll
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Primeros pasos\obj\Debug\net9.0\app.pdb
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Primeros pasos\obj\Debug\net9.0\app.genruntimeconfig.cache
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Primeros pasos\obj\Debug\net9.0\ref\app.dll

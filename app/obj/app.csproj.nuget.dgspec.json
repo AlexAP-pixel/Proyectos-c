@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleja\\OneDrive\\Escritorio\\Estudio_intern\\Proyectos c#\\app\\app.csproj": {}
+    "C:\\Users\\aleja\\OneDrive\\Escritorio\\Estudio_intern\\Proyectos c#\\Primeros pasos\\app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleja\\OneDrive\\Escritorio\\Estudio_intern\\Proyectos c#\\app\\app.csproj": {
+    "C:\\Users\\aleja\\OneDrive\\Escritorio\\Estudio_intern\\Proyectos c#\\Primeros pasos\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Estudio_intern\\Proyectos c#\\app\\app.csproj",
+        "projectUniqueName": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Estudio_intern\\Proyectos c#\\Primeros pasos\\app.csproj",
         "projectName": "app",
-        "projectPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Estudio_intern\\Proyectos c#\\app\\app.csproj",
+        "projectPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Estudio_intern\\Proyectos c#\\Primeros pasos\\app.csproj",
         "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Estudio_intern\\Proyectos c#\\app\\obj\\",
+        "outputPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Estudio_intern\\Proyectos c#\\Primeros pasos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config"
