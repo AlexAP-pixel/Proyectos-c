@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 class Program
 {
-    static List<string> tareas = new List<string>(); // Lusta tareas
+    static List<string> tareas = new List<string>(); // Lista tareas
     
     static void Main(string[] strings)
     {
