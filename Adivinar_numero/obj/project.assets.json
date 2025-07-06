@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Estudio_intern\\Proyectos c#\\app\\app.csproj",
-      "projectName": "app",
-      "projectPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Estudio_intern\\Proyectos c#\\app\\app.csproj",
+      "projectUniqueName": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Estudio_intern\\Proyectos c#\\Adivinar_numero\\Adivinar_numero.csproj",
+      "projectName": "Adivinar_numero",
+      "projectPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Estudio_intern\\Proyectos c#\\Adivinar_numero\\Adivinar_numero.csproj",
       "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Estudio_intern\\Proyectos c#\\app\\obj\\",
+      "outputPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Estudio_intern\\Proyectos c#\\Adivinar_numero\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config"
