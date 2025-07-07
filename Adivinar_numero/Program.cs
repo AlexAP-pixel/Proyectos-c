@@ -12,6 +12,7 @@ class Program
         List<int> intentosRealizados = new List<int>();
 
         // Instrucciones
+        Console.WriteLine("Prueba");
         Console.WriteLine("¡Juego de Adivinar el Número!");
         Console.WriteLine("===================================");
         Console.WriteLine("Estoy pensando en un número entre 1 y 100.");
