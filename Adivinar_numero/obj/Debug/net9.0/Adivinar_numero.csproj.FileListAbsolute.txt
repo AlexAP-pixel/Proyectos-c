@@ -1,0 +1,15 @@
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Adivinar_numero\obj\Debug\net9.0\Adivinar_numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Adivinar_numero\obj\Debug\net9.0\Adivinar_numero.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Adivinar_numero\obj\Debug\net9.0\Adivinar_numero.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Adivinar_numero\obj\Debug\net9.0\Adivinar_numero.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Adivinar_numero\obj\Debug\net9.0\Adivinar_numero.sourcelink.json
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Adivinar_numero\bin\Debug\net9.0\Adivinar_numero.exe
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Adivinar_numero\bin\Debug\net9.0\Adivinar_numero.deps.json
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Adivinar_numero\bin\Debug\net9.0\Adivinar_numero.runtimeconfig.json
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Adivinar_numero\bin\Debug\net9.0\Adivinar_numero.dll
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Adivinar_numero\bin\Debug\net9.0\Adivinar_numero.pdb
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Adivinar_numero\obj\Debug\net9.0\Adivinar_numero.dll
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Adivinar_numero\obj\Debug\net9.0\refint\Adivinar_numero.dll
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Adivinar_numero\obj\Debug\net9.0\Adivinar_numero.pdb
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Adivinar_numero\obj\Debug\net9.0\Adivinar_numero.genruntimeconfig.cache
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Adivinar_numero\obj\Debug\net9.0\ref\Adivinar_numero.dll

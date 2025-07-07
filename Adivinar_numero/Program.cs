@@ -13,46 +13,54 @@ class Program
 
         // Instrucciones
         Console.WriteLine("¡Juego de Adivinar el Número!");
+        Console.WriteLine("===================================");
         Console.WriteLine("Estoy pensando en un número entre 1 y 100.");
         Console.WriteLine("Intenta adivinarlo. Tienes 10 intentos");
-        Console.WriteLine("Ingresa el numero que estoy pensando: ");
-        Console.WriteLine("Si quieres salir, escribe 'salir'.");
+        Console.WriteLine("- Ingresa el numero que estoy pensando: ");
+        Console.WriteLine("- Si quieres salir, escribe 'salir'.");
 
         // Bucle principal del juego
         while (intentos < 10)
         {
+            Console.Write("Entrada: ");
             string numeroIngresado = Console.ReadLine();
-            int numeroAdivinado = random.Next(1, 101);
 
-            if (numeroIngresado == "salir")
+            if (numeroIngresado?.ToLower() == "salir")
             {
                 Console.WriteLine("Has salido del juego. ¡Chau!");
                 return;
             }
-            else if (int.Trypase(numeroIngresado, out numeroAdivinado))
-            {
-                intentosRealizados.Add(numeroAdivinado);
-                intentos++;
 
-                if (numeroAdivinado < numeroSecreto)
-                {
-                    Console.WriteLine("El número es mayor. Intenta de nuevo.");
-                }
-                else if (numeroAdivinado > numeroSecreto)
+
+            if (int.TryParse(numeroIngresado, out int numeroIngresadoInt))
+            {
+                if (numeroIngresadoInt > numeroSecreto)
                 {
                     Console.WriteLine("El número es menor. Intenta de nuevo.");
+                    intentos++;
+                }
+                else if (numeroIngresadoInt < numeroSecreto)
+                {
+                    Console.WriteLine("El número es mayor. Intenta de nuevo");
+                    intentos++;
+                }
+                else if (numeroIngresadoInt == numeroSecreto)
+                {
+                    Console.WriteLine($"Felicidades el numero era {numeroSecreto} lo adivinaste en {intentos + 1} intentos.");
+                    return;
                 }
                 else
                 {
-                    Console.WriteLine($"¡Felicidades! Adivinaste el número {numeroSecreto} en {intentos} intentos.");
-                    return;
+                    Console.WriteLine("Ese dato no es valido.");
+                    Console.WriteLine("Ingrese otro numero");
                 }
+
             }
             else
             {
-                Console.WriteLine("Entrada no válida. Por favor, ingresa un número entre 1 y 100 o escribe 'salir' para terminar.");
+                Console.WriteLine("Entrada no valida");
             }
-
         }
+        Console.WriteLine("Se terminarion tus intentos el numero era " + numeroSecreto);
     }
 }
