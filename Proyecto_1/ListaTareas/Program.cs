@@ -14,7 +14,7 @@ class Program
             Console.WriteLine("---------------");
             Console.WriteLine("1. Ver tarea");
             Console.WriteLine("2. Agregar tarea");
-            COnsole.WriteLine("3. Eliminar tarea");
+            Console.WriteLine("3. Eliminar tarea");
             Console.WriteLine("4. Salir");
             Console.Write("\nSeleccione una opción: ");
 
