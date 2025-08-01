@@ -1,0 +1,5 @@
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Calculadora_Interfaz_Grafica\obj\Debug\net9.0\Calculadora_Interfaz_Grafica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Calculadora_Interfaz_Grafica\obj\Debug\net9.0\Calculadora_Interfaz_Grafica.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Calculadora_Interfaz_Grafica\obj\Debug\net9.0\Calculadora_Interfaz_Grafica.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Calculadora_Interfaz_Grafica\obj\Debug\net9.0\Calculadora_Interfaz_Grafica.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Estudio_intern\Proyectos c#\Calculadora_Interfaz_Grafica\obj\Debug\net9.0\Calculadora_Interfaz_Grafica.sourcelink.json
